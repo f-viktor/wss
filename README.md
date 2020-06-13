@@ -27,7 +27,7 @@ The oldest element of the queue will be sent every 0.1 seconds.
 
 You can query all the responses directly via the `wss.responses` variable
 
-You can look for messages with a specific substring via `wss.response_has(substring)'
+You can look for messages with a specific substring via `wss.response_has(substring)`
 
 You can block execution until a message with a specific substring has arrived as:
 
